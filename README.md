@@ -3,7 +3,7 @@ Alp Electronics LED PCB
 
 This projest has been designed during YouTube Live. 
 
-!https://www.youtube.com/watch?v=rU4l__83UNg&t=719s
+https://www.youtube.com/watch?v=rU4l__83UNg&t=719s
 
 You can download and use it on your own.
 
